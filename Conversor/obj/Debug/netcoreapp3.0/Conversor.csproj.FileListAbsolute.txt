@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.exe
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.deps.json
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.runtimeconfig.json
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.dll
+C:\Users\usuario\source\repos\Conversor\Conversor\bin\Debug\netcoreapp3.0\Conversor.pdb
+C:\Users\usuario\source\repos\Conversor\Conversor\obj\Debug\netcoreapp3.0\Conversor.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Conversor\Conversor\obj\Debug\netcoreapp3.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Conversor\Conversor\obj\Debug\netcoreapp3.0\Conversor.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Conversor\Conversor\obj\Debug\netcoreapp3.0\Conversor.dll
+C:\Users\usuario\source\repos\Conversor\Conversor\obj\Debug\netcoreapp3.0\Conversor.pdb
